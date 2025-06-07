@@ -320,5 +320,14 @@ def get_log():
         logs = f.read()
     return jsonify({"success": True, "log": logs})
 
+# Thêm route cho root path
+@app.route("/", methods=["GET"])
+def root():
+    return jsonify({
+        "status": "running",
+        "message": "Crypto Backend API is running",
+        "version": "1.0.0"
+    })
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8000, debug=True)
