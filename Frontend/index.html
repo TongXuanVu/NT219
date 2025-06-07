@@ -20,10 +20,9 @@
     </ul>
 </div>
 <script>
-const ServerBaseUrl = "http://127.0.0.1:8000";
-const ClientBaseUrl = "http://127.0.0.1:5550";
+const ServerBaseUrl = "https://nt219-antt.onrender.com";
 function logout() {
-    fetch('/api/logout', {method:'POST'}).then(()=>location.href="login.html");
+    fetch('${ServerBaseUrl}/api/logout', {method:'POST'}).then(()=>location.href="login.html");
 }
 </script>
 </body>
