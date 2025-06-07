@@ -67,7 +67,8 @@ def login_required(f):
     def decorated_function(*args, **kwargs):
         if 'username' not in session:
             if request.path.startswith('/api/'):
-                return jsonify({"success": False, "message": "Bạn chưa đăng nhập. Vui lòng đăng nhập để tiếp tục."}), 401
+                #return jsonify({"success": False, "message": "Bạn chưa đăng nhập. Vui lòng đăng nhập để tiếp tục."}), 401
+                return f(*args, **kwargs)
             return redirect(url_for('login_page'))
         return f(*args, **kwargs)
     return decorated_function
