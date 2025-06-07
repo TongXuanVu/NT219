@@ -1,0 +1,11 @@
+{
+  "order_id": "Laptop sale",
+  "buyer": "tongxuanvu",
+  "seller": "xuanvu",
+  "amount": "100000000",
+  "currency": "VND",
+  "items": [
+    "2 cái"
+  ],
+  "timestamp": "2025-06-07T15:32:55.127171"
+}
