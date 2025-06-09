@@ -1,0 +1,284 @@
+[
+    {
+        "timestamp": "2025-06-09T11:30:16.794966",
+        "user": "xuanvu",
+        "action_type": "User Registration",
+        "message": "User 'xuanvu' registered successfully."
+    },
+    {
+        "timestamp": "2025-06-09T11:30:22.429100",
+        "user": "xuanvu",
+        "action_type": "User Login",
+        "message": "User 'xuanvu' logged in successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:04:10.048428",
+        "user": "tongxuanvu",
+        "action_type": "User Login Failed",
+        "message": "Failed login attempt for user 'tongxuanvu'. Invalid credentials."
+    },
+    {
+        "timestamp": "2025-06-09T12:04:19.512790",
+        "user": "tongxuanvu",
+        "action_type": "User Login Failed",
+        "message": "Failed login attempt for user 'tongxuanvu'. Invalid credentials."
+    },
+    {
+        "timestamp": "2025-06-09T12:04:43.191237",
+        "user": "tongxuanvu",
+        "action_type": "User Registration",
+        "message": "User 'tongxuanvu' registered successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:04:47.351539",
+        "user": "tongxuanvu",
+        "action_type": "User Login",
+        "message": "User 'tongxuanvu' logged in successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:04:53.562802",
+        "user": "tongxuanvu",
+        "action_type": "upload_pubkey",
+        "message": "tongxuanvu upload public key tongxuanvu.ecdsa.pub.pem"
+    },
+    {
+        "timestamp": "2025-06-09T12:04:56.787351",
+        "user": "tongxuanvu",
+        "action_type": "upload_pubkey",
+        "message": "tongxuanvu upload public key tongxuanvu.ml-dsa.pub.pub"
+    },
+    {
+        "timestamp": "2025-06-09T12:04:59.966230",
+        "user": "tongxuanvu",
+        "action_type": "upload_pubkey",
+        "message": "tongxuanvu upload public key tongxuanvu.rsa.pub.pem"
+    },
+    {
+        "timestamp": "2025-06-09T12:20:20.926972",
+        "user": "tongxuanvu",
+        "action_type": "Registration Failed",
+        "message": "Attempt to register existing username: 'tongxuanvu'."
+    },
+    {
+        "timestamp": "2025-06-09T12:20:28.067303",
+        "user": "tongxuanvu",
+        "action_type": "User Login Failed",
+        "message": "Failed login attempt for user 'tongxuanvu'. Invalid credentials."
+    },
+    {
+        "timestamp": "2025-06-09T12:20:30.537151",
+        "user": "tongxuanvu",
+        "action_type": "User Login",
+        "message": "User 'tongxuanvu' logged in successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:20:42.704287",
+        "user": "tongxuanvu",
+        "action_type": "Registration Failed",
+        "message": "Attempt to register existing username: 'tongxuanvu'."
+    },
+    {
+        "timestamp": "2025-06-09T12:20:53.368777",
+        "user": "tongxuanvu",
+        "action_type": "User Login",
+        "message": "User 'tongxuanvu' logged in successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:21:15.798578",
+        "user": "tongxuanvu",
+        "action_type": "User Login",
+        "message": "User 'tongxuanvu' logged in successfully."
+    },
+    {
+        "timestamp": "2025-06-09T12:21:25.996892",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:22:19.368206",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:24:06.202486",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:27:38.939053",
+        "user": "Guest",
+        "action_type": "get_pubkey_fail",
+        "message": "Guest lấy public key 12.RSA KHÔNG TÌM THẤY"
+    },
+    {
+        "timestamp": "2025-06-09T12:27:51.152313",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:34:40.931482",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:34:40.957684",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T12:37:41.120295",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:38:40.011375",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:38:40.053378",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T12:44:01.107849",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:44:01.154124",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T12:49:36.670864",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:49:36.684876",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T12:54:50.586851",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:54:50.627348",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T12:55:28.913694",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T12:55:28.952956",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:01:50.591787",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:01:50.630680",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:04:31.768119",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:04:36.109611",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:06:21.536619",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:06:25.069023",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:17:10.993946",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:17:13.484252",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:18:22.555933",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:18:22.591447",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:18:59.409633",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:18:59.454912",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale.encrypted cho tongxuanvu"
+    },
+    {
+        "timestamp": "2025-06-09T13:40:00.352905",
+        "user": "Guest",
+        "action_type": "get_pubkey",
+        "message": "Guest truy vấn public key tongxuanvu.RSA"
+    },
+    {
+        "timestamp": "2025-06-09T13:40:00.374042",
+        "user": "tongxuanvu",
+        "action_type": "upload",
+        "message": "tongxuanvu gửi file transaction_Laptop sale_1749451200.encrypted cho tongxuanvu"
+    }
+]
